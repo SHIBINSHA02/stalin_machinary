@@ -232,7 +232,7 @@ const StalinMachineryDashboard = () => {
                   <span className="font-semibold">Back to Dashboard</span>
                 </button>
                 <div>
-                  <h1 className="text-4xl font-bold text-yellow-400">STALIN MACHINERY</h1>
+                  <h1 className="text-4xl font-bold text-yellow-400">STALLION MACHINERY</h1>
                   <p className="text-gray-300">Machine Monitoring - {machine.name}</p>
                 </div>
               </div>
