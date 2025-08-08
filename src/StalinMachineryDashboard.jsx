@@ -487,7 +487,7 @@ const StalinMachineryDashboard = () => {
         <div className="p-8">
           <div className="flex items-center justify-between">
             <div>
-              <h1 className="text-5xl font-bold text-yellow-400 mb-2">STALIN MACHINERY</h1>
+              <h1 className="text-5xl font-bold text-yellow-400 mb-2">STALLION MACHINERY</h1>
               <p className="text-gray-300 text-lg">Rental Equipment Management Dashboard</p>
               <p className="text-gray-400 text-sm">Real-time monitoring & control system</p>
             </div>
