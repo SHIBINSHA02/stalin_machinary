@@ -12,7 +12,7 @@ const StalinMachineryDashboard = () => {
     {
       id: 'CM001',
       name: 'Concrete Mixer Pro 350L',
-      customer: 'ABC Construction',
+      customer: 'Shankar constructions',
       customerPhone: '+91 9876543210',
       location: { lat: 10.8505, lng: 76.2711, address: 'Thiruvananthapuram Construction Site A' },
       status: 'active',
@@ -30,7 +30,7 @@ const StalinMachineryDashboard = () => {
     {
       id: 'CM002',
       name: 'Heavy Duty Mixer 500L',
-      customer: 'XYZ Builders',
+      customer: 'Manoj Constructions',
       customerPhone: '+91 9876543211',
       location: { lat: 10.8555, lng: 76.2811, address: 'Kovalam Beach Resort Project' },
       status: 'inactive',
@@ -48,7 +48,7 @@ const StalinMachineryDashboard = () => {
     {
       id: 'VB001',
       name: 'Vibrator Poker VP-50',
-      customer: 'Premium Constructions',
+      customer: 'Binoj Builders',
       customerPhone: '+91 9876543212',
       location: { lat: 10.8405, lng: 76.2611, address: 'Technopark Phase IV' },
       status: 'active',
@@ -66,7 +66,7 @@ const StalinMachineryDashboard = () => {
     {
       id: 'PH001',
       name: 'Power Hoist PH-1000',
-      customer: 'Skyline Developers',
+      customer: 'Akash Builders',
       customerPhone: '+91 9876543213',
       location: { lat: 10.8605, lng: 76.2911, address: 'Trivandrum Medical College Extension' },
       status: 'maintenance',
@@ -84,7 +84,7 @@ const StalinMachineryDashboard = () => {
     {
       id: 'CM003',
       name: 'Mini Mixer 200L',
-      customer: 'Local Builder Co',
+      customer: 'Rinku Constructions',
       customerPhone: '+91 9876543214',
       location: { lat: 10.8305, lng: 76.2511, address: 'Neyyattinkara Highway Project' },
       status: 'active',
@@ -102,7 +102,7 @@ const StalinMachineryDashboard = () => {
     {
       id: 'DR001',
       name: 'Diamond Drill DR-250',
-      customer: 'Rock Solid Constructions',
+      customer: 'Bruce Constructions',
       customerPhone: '+91 9876543215',
       location: { lat: 10.8705, lng: 76.3011, address: 'Vellayani Lake Bridge Project' },
       status: 'inactive',
